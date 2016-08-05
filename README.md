@@ -1,4 +1,5 @@
 # PokeZen
+A new intelligent bot built with love by a team of experianced coders with a easy beautiful GUI
 
 
 
@@ -19,10 +20,11 @@
 - Human-like walking
 - Auto-updating / Version checking
 - Use Lucky Egg when evolving Pokemon for best EXP rate
-
+- Advanced Anti Soft Ban protocal(100% success rate)
+- Much more
 ## FAQ
 
-### TBD
+### Coming soon
 
 #Legal
 
