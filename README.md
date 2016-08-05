@@ -22,6 +22,7 @@ A new intelligent bot built with love by a team of experianced coders with a eas
 - Use Lucky Egg when evolving Pokemon for best EXP rate
 - Advanced Anti Soft Ban protocal(100% success rate)
 - Much more
+
 ## FAQ
 
 ### Coming soon
